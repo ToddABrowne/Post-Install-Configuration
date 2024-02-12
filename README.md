@@ -23,11 +23,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Post-Install Configuration Objectives</h2>
 
 - Open IIS as an Admin
-- Register PHP from within IIS and reload IIS
-- Install osTicket v1.15.8 and restart IIS
+- Register PHP from within IIS and Restart IIS
+- Install osTicket v1.15.8 and Restart IIS
 - Go to site > Default > osTicket "Browse *80"
-- Enable Extensions, rename file, and assign permissions
-- Install and setup HeidiSQL
+- Enable Extensions
+- Assign Permissions and Install/Settings for HeidiSQL
 
 <h2>Configuration Steps</h2>
 
