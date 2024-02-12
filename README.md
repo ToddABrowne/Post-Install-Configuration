@@ -41,12 +41,12 @@ This tutorial outlines the post-install configuration of the open-source help de
 <img src="https://i.imgur.com/lB8ZEQh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 <p>
-Opening IIS as an Admin is mndatory when inputting settings. Registering PHP within IIS allows the web server to reconize and properly handle PHP files. By configuring IIS to work with PHP, you enable it to interpret PHP code within the web pages, enabling dynamic content generation. Restarting the IIS is to refresh the system with the new registeration settings.
+Opening and running IIS as an Admin is mandatory when inputting settings. Registering PHP within IIS allows the web server to reconize and properly handle PHP files. By configuring IIS to work with PHP, you enable it to interpret PHP code within the web pages, enabling dynamic content generation. Restarting the IIS is to refresh the system with the new registeration settings.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/lB8ZEQh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/DJBk3sv.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 </p>
 <img src="https://i.imgur.com/lB8ZEQh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
