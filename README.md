@@ -27,7 +27,8 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Install osTicket v1.15.8 and Restart IIS
 - Go to site > Default > osTicket "Browse *80"
 - Enable Extensions
-- Assign Permissions and Install/Settings for HeidiSQL
+- Assign Permissions
+- Download and Install HeidiSQL
 
 <h2>Configuration Steps</h2>
 
@@ -69,6 +70,6 @@ Downloading, installing, copying file to root folder on C drive, and finally ren
 <img src="https://i.imgur.com/QQb8T4i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After enabling more features from PHP Extension. I went ahead and assigned permission to everyone at this time. The final download and install before the post installation setup is HeidiSQL. HeidiSQL is a free and open-source database management tool primarily designed for MySQL, Microsoft SQL Server, and PostgreSQL. HeidiSQL main purpose is to provide developers and database administrators with user-friendly interface to manage, edit, and interact with databases efficiently.
 </p>
 <br />
